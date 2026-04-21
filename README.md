@@ -13,7 +13,7 @@
 - 🎯 Desenvolvedor iniciante em **C# (Windows Forms)**
 - 💻 Focado em **lógica de programação, criação de sistemas, sites e automações básicas**
 - 🏛️ Experiência prática no **Tribunal de Justiça da Bahia (TJ-BA)**
-- 🎓 Técnico em Informática pelo **CEPTIC** e estudante do **IFBA**
+- 🎓 Técnico em Informática pelo **CEEPTIC** e estudante do **IFBA**
 
 ---
 
