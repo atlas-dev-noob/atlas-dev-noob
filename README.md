@@ -49,14 +49,6 @@ Sistema desktop em **C# (Windows Forms)** para cálculo automático de vendas e 
 
 ---
 
-## 📸 Preview do projeto
-
-<div align="center">
-  <img src="https://github.com/atlas-dev-noob/comissao-vendedor-csharp/blob/main/screenshot.png" alt="Preview do sistema de comissão" width="700"/>
-</div>
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
