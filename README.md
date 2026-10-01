@@ -2,11 +2,10 @@
 
 # ☂︎ Olá, eu sou Breno ☂︎
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+C%23+e+Windows+Forms;Focado+em+l%C3%B3gica%2C+sistemas+e+automa%C3%A7%C3%B5es;Sempre+evoluindo+como+dev" alt="Typing SVG" />
-
 </div>
 
----
+
+
 
 ## 👨‍💻 Sobre mim
 
